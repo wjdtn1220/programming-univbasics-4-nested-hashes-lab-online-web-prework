@@ -81,6 +81,9 @@ def adding_matz
         }
      }
   programmer_hash[:hello] = {
+    :known_for => "Hi",
+    :languages => "Hello"
+  }
 end
 
 def changing_alan
