@@ -2,6 +2,8 @@
 def hopper
 	programmer_hash = {
 	  :grace_hopper => {
+	    :known for
+	  }
 	}
 
 end
