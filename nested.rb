@@ -2,7 +2,7 @@
 def hopper
 	programmer_hash = {
  		  :nested_hash => {
-        :grace_hopper => ,
+        :grace_hopper => 1,
           :known_for => "COBOL",
           :languages => ["COBOL", "FORTRAN"]
         },
